@@ -1,3 +1,3 @@
 (function () {
-    console.log(3)
+    console.log('v1.1')
 })()
