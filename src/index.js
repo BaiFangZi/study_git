@@ -1,3 +1,3 @@
 (function () {
-    console.log('v2.1')
+    console.log('修复bugs')
 })()
